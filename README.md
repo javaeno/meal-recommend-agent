@@ -1,4 +1,3 @@
-<img width="865" height="597" alt="image" src="https://github.com/user-attachments/assets/267e993f-0db0-4ec3-b264-5c51bc458b8d" />
 <img width="865" height="559" alt="image" src="https://github.com/user-attachments/assets/c1e7ccb1-0097-461f-a571-551042cb65ce" />
 # 🍱 校园套餐智能推荐助手
 
